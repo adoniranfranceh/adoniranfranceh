@@ -1,7 +1,7 @@
 <h3 align="center"> Hi! I'm Adoniran França 👋👨‍💻 </h3>
 
 <p align="center">
-  I’m 20 years old, coding since 2022, and currently working as a full-stack software developer.
+  I’m 21 years old, coding since 2022, and currently working as a full-stack software developer.
 </p>
 
 ## :hammer_and_wrench: Languages and Tools
@@ -23,7 +23,7 @@
   <img 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoniranfranceh&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoniranfranceh&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10" 
   />
 </div>
 
