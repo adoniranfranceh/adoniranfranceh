@@ -1,29 +1,43 @@
 <h3 align="center"> Hi! I'm Adoniran França 👋👨‍💻 </h3>
 
 <p align="center">
-  I’m 21 years old, coding since 2022, and currently working as a full-stack software developer.
+  Full-stack Software Engineer with 4+ years of experience, specializing in <b>Ruby on Rails</b> and <b>Real-time Systems</b>.
 </p>
 
 ## :hammer_and_wrench: Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,react,vuejs,js,html,css,postgres,git,docker,linux,vscode" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ruby,rails,react,vuejs,postgres,redis,docker,linux,git,vscode" alt="Skills and tools"/>
   </a>
 </p>
 
-##  📊 GitHub Stats 
+## 📊 GitHub Stats 
 
 <div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=adoniranfranceh&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img 
+          alt="GitHub Stats" 
+          height="170" 
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=adoniranfranceh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=3" 
+        />
+      </td>
+      <td align="center">
+        <img 
+          alt="Streak Stats"
+          height="170"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=adoniranfranceh&theme=tokyonight&v=3" 
+        />
+      </td>
+    </tr>
+  </table>
+  <br/>
   <img 
     alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoniranfranceh&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10" 
+    height="190" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adoniranfranceh&theme=tokyonight&layout=compact&langs_count=8&card_width=420&v=3" 
   />
 </div>
 
