@@ -14,32 +14,26 @@
 
 ## 📊 GitHub Stats 
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img 
-          alt="GitHub Stats" 
-          height="170" 
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=adoniranfranceh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=3" 
-        />
-      </td>
-      <td align="center">
-        <img 
-          alt="Streak Stats"
-          height="170"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=adoniranfranceh&theme=tokyonight&v=3" 
-        />
-      </td>
-    </tr>
-  </table>
-  <br/>
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=adoniranfranceh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+  />
+  <img 
+    alt="Streak Stats"
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=adoniranfranceh&theme=tokyonight" 
+  />
+</p>
+
+<p align="center">
   <img 
     alt="Top Languages" 
     height="190" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adoniranfranceh&theme=tokyonight&layout=compact&langs_count=8&card_width=420&v=3" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoniranfranceh&theme=tokyonight&layout=compact&langs_count=8&card_width=420" 
   />
-</div>
+</p>
 
 ### 🌐 Let's Connect! 
 
