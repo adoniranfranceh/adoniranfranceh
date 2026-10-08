@@ -1,14 +1,14 @@
 <h3 align="center"> Hi! I'm Adoniran França 👋👨‍💻 </h3>
 
 <p align="center">
-  Full-stack Software Engineer with 4+ years of experience, specializing in <b>Ruby on Rails</b> and <b>Real-time Systems</b>.
+  Full-stack Software Engineer with 4+ years of experience, specializing in <b>Ruby on Rails</b>, <b>Real-time Systems</b>, and <b>UX/UI Design</b>.
 </p>
 
 ## :hammer_and_wrench: Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ruby,rails,react,vuejs,postgres,redis,docker,linux,git,vscode" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ruby,rails,react,vuejs,figma,postgres,redis,docker,linux,git,vscode" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -18,7 +18,7 @@
   <img 
     alt="GitHub Stats" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=adoniranfranceh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=adoniranfranceh&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true" 
   />
   <img 
     alt="Streak Stats"
