@@ -18,7 +18,7 @@
   <img 
     alt="GitHub Stats" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=adoniranfranceh&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true" 
+    src="https://github-readme-stats.vercel.app/api?username=adoniranfranceh&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
   <img 
     alt="Streak Stats"
